@@ -77,7 +77,7 @@ print(Panel('''
 
 class bcolors:
     BOLD = '\033[1m'
-    PURPLE = '\033[95m'
+    PURPLE = '\033[90m'
     OKBLUE = '\033[94m'
     OKGREEN = '\033[95m'
     WARNING = '\033[93m'
